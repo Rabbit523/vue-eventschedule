@@ -1,0 +1,14 @@
+extends layout
+
+block styles
+	// Site stylesheet
+	link(rel='stylesheet', href='/app/styles/app.css')
+
+block content
+	#app
+
+block scripts
+	// Site scripts
+	script(async, defer, src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAl3KpSSSXWq3oykddY2l6pHvb0LrTXL9o")
+	script(src='/app/vendor.js')
+	script(src='/app/app.js')
