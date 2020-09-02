@@ -158,7 +158,7 @@
     "i18next-browser-languagedetector": "1.0.1",
     "i18next-xhr-backend": "1.4.1",
     "install": "^0.11.0",
-    "jquery": "3.2.1",
+    "jquery": "3.5.1",
     "json-loader": "0.5.4",
     "marked": "0.3.6",
     "mocha": "3.4.2",
